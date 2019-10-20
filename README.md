@@ -1,0 +1,1 @@
+# AMDRyzen_3600_GTX1070Ti_EFI
